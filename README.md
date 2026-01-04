@@ -26,8 +26,8 @@
 
 ### 🎨 UI Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=antd" />
-  <img height="48" src="https://primeng.org/images/primeng-logo-dark.svg" />
+  <img src="https://skillicons.dev/icons?i=antd" height="48" />
+  <img src="https://img.shields.io/badge/PrimeNG-007ACC?style=for-the-badge&logo=primeng&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Databases
