@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Subash Pandeya</h1>
+<h1 align="center">Hi 👋, I'm Subash Pandey</h1>
 <h3 align="center">Frontend Developer | Angular Specialist | UI Architecture Enthusiast</h3>
 
 <p align="center">
@@ -64,12 +64,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subashpandeya&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subashpandeya&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SuabshPandey&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuabshPandey&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashpandeya&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuabshPandey&layout=compact&theme=radical"/>
 </p>
 
 ---
