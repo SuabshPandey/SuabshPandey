@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Developer | Angular Specialist | UI Architecture Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Angular+Developer+%F0%9F%9A%80;Enterprise+UI+Builder+%F0%9F%8F%A6;React+%26+Svelte+Learner+%F0%9F%93%9A;Clean+Code+Advocate+%E2%9C%85&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Angular+Developer+%F0%9F%9A%80;Enterprise+UI+Builder+%F0%9F%8F%A6;Learner+%F0%9F%93%9A;Clean+Code+Advocate+%E2%9C%85&center=true&width=500&height=45" />
 </p>
 
 ---
@@ -86,10 +86,10 @@
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/subash-pandey-ab429a1a1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:itmesubashpandey867@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
