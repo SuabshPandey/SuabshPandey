@@ -1,97 +1,103 @@
-# 👋 Hi, I'm Subash Pandeya
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Subash Pandeya</h1>
+<h3 align="center">Frontend Developer | Angular Specialist | UI Architecture Enthusiast</h3>
 
-🚀 Frontend Developer (Angular-focused) with **2.5+ years of professional experience**, passionate about building **scalable, reusable, and high-performance web applications**.
-
----
-
-## 👨‍💻 About Me
-
-- 💼 **Frontend Developer** specializing in **Angular**
-- 🎓 Bachelor’s of Engineering in Information Technology
-- 🌱 Currently learning **NestJS (Backend)** to become a full-stack developer
-- 🔍 Interested in **clean architecture, reusable components, and performance optimization**
-- 🏦 Experienced in building **enterprise & banking applications**
-- 📚 Constantly upgrading skills with **React, SvelteKit, and modern frontend tools**
-- 🌏 Based in **Nepal**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Angular+Developer+%F0%9F%9A%80;Enterprise+UI+Builder+%F0%9F%8F%A6;React+%26+Svelte+Learner+%F0%9F%93%9A;Clean+Code+Advocate+%E2%9C%85&center=true&width=500&height=45" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 🔹 Frontend
-- Angular (Latest versions, Reactive Forms, Guards, Directives)
-- PrimeNG, PrimeFlex, Ant Design
-- React + TypeScript
-- React Router v7
-- Svelte & SvelteKit
-- Tailwind CSS, SCSS
-
-### 🔹 State & Utilities
-- RxJS
-- Redux Toolkit
-- Angular Services & Dependency Injection
-
-### 🔹 Backend (Working Knowledge)
-- Node.js
-- NestJS (learning)
-- Python Flask
-
-### 🔹 Database
-- PostgreSQL
-
-### 🔹 Tools & Others
-- Git & GitHub
-- REST APIs
-- JWT Authentication
-- WebSockets
-- AES / RSA Encryption (Frontend & Backend integration)
-- Linux Environment
+💼 **Frontend Developer** with **3.5+ years of experience** building **enterprise & fintech applications**  
+🏦 Specialized in **Angular**, reusable architecture & performance optimization  
+🌱 Currently learning **NestJS** to become a **full-stack developer**  
+🎯 Passionate about **clean code, scalable UI systems, and developer experience**
 
 ---
 
-## 💼 Professional Experience Highlights
+## 🧠 Core Skills & Tech Stack
 
-- 🧩 Built **reusable Angular table components** with:
-  - Dynamic columns
-  - Column-level search
-  - Permission-based rendering
-- 🏦 Worked on **multi-bank Angular applications** using build-time configurations
-- 🎨 Implemented advanced UI/UX using **PrimeNG + Tailwind**
-- 🔐 Integrated **secure encryption & authentication flows**
-- ⚡ Improved performance and maintainability by following **clean code principles**
+### 🖥️ Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,svelte,html,css,tailwind,scss" />
+</p>
 
----
+### 🎨 UI Libraries
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=antd" />
+  <img height="48" src="https://primeng.org/images/primeng-logo-dark.svg" />
+</p>
 
-## 📌 What I’m Currently Working On
+### ⚙️ Backend & Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,postgres" />
+</p>
 
-- 🔥 Learning **NestJS** from scratch (architecture-first approach)
-- 🧠 Strengthening **React + TypeScript** ecosystem knowledge
-- 🧪 Exploring **SvelteKit** for fast, modern web apps
-- 🏗️ Building reusable UI patterns and enterprise-ready components
-
----
-
-## 🎯 What I’m Passionate About
-
-- Writing **clean, maintainable, and scalable code**
-- Solving real-world problems with thoughtful UI/UX
-- Learning **new frameworks and architectures**
-- Building products that are **developer-friendly and user-focused**
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 💼 Professional Highlights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subashpandeya&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subashpandeya&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let’s Connect
-
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
-- 📧 Email: *(Add your professional email here)*
+✨ Built **reusable Angular components** used across multiple banking projects  
+✨ Implemented **dynamic tables** with permissions, search & column controls  
+✨ Worked on **multi-bank single codebase architecture** (build-time configuration)  
+✨ Integrated **secure authentication & encryption (JWT, AES, RSA)**  
+✨ Strong experience with **PrimeNG + Tailwind CSS + SCSS**
 
 ---
 
-⭐️ *I believe in continuous learning, clean code, and building meaningful software.*
+## 🔥 Currently Focused On
+
+- 🧩 **NestJS** – backend architecture, modules & API design
+- ⚛️ **React + TypeScript** – scalable routing & state management
+- 🧪 **SvelteKit** – fast and modern frontend apps
+- 🏗️ Designing **enterprise-grade UI systems**
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=subashpandeya&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subashpandeya&theme=radical" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subashpandeya&layout=compact&theme=radical"/>
+</p>
+
+---
+
+## 🏆 Achievements & Mindset
+
+- ✅ Clean Code & SOLID Principles
+- ✅ Reusable & Scalable Architecture
+- ✅ Enterprise UI Development
+- ✅ Continuous Learner
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=subashpandeya&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+⭐️ *“Building clean, scalable, and impactful user experiences.”*
