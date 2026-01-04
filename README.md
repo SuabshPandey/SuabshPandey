@@ -61,20 +61,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuabshPandey&show_icons=true&theme=radical&v=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuabshPandey&theme=radical" />
-</p>
-
-
-
----
-
 ## 🏆 Achievements & Mindset
 
 - ✅ Clean Code & SOLID Principles
