@@ -42,16 +42,6 @@
 
 ---
 
-## 💼 Professional Highlights
-
-✨ Built **reusable Angular components** used across multiple banking projects  
-✨ Implemented **dynamic tables** with permissions, search & column controls  
-✨ Worked on **multi-bank single codebase architecture** (build-time configuration)  
-✨ Integrated **secure authentication & encryption (JWT, AES, RSA)**  
-✨ Strong experience with **PrimeNG + Tailwind CSS + SCSS**
-
----
-
 ## 🔥 Currently Focused On
 
 - 🧩 **NestJS** – backend architecture, modules & API design
