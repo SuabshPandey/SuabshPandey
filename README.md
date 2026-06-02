@@ -3,7 +3,7 @@
 <h3 align="center">Software Developer | Angular Focused | UI Architecture Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Angular+Developer+%F0%9F%9A%80;Enterprise+UI+Builder+%F0%9F%8F%A6;Learner+%F0%9F%93%9A;Clean+Code+Advocate+%E2%9C%85&center=true&width=500&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Angular+Developer+%F0%9F%9A%80;Enterprise+Application+Builder+%F0%9F%8F%A6;Learner+%F0%9F%93%9A;Clean+Code+Advocate+%E2%9C%85&center=true&width=500&height=45" />
 </p>
 
 ---
