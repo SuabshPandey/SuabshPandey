@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Subash Pandey</h1>
-<h3 align="center">Frontend Developer | Angular Focused | UI Architecture Enthusiast</h3>
+<h3 align="center">Software Developer | Angular Focused | UI Architecture Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Angular+Developer+%F0%9F%9A%80;Enterprise+UI+Builder+%F0%9F%8F%A6;Learner+%F0%9F%93%9A;Clean+Code+Advocate+%E2%9C%85&center=true&width=500&height=45" />
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-💼 **Frontend Developer** with **3.5+ years of experience** building **enterprise & fintech applications**  
+💼 **Frontend Developer** with **4+ years of experience** building **enterprise & fintech applications**  
 🏦 Specialized in **Angular**, reusable architecture & performance optimization  
 🌱 Currently learning **NestJS** to become a **full-stack developer**  
 🎯 Passionate about **clean code, scalable UI systems, and developer experience**
